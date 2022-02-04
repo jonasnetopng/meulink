@@ -1,6 +1,6 @@
 # url short
 
-projeto desenvolvido na "Semana ReactJS" com [@sujeitoprogramador]
+Project developed at "ReactJS Week" with @sujeitoprogramador
 
 ## Demo
 
